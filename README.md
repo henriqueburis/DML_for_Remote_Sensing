@@ -1,1 +1,1 @@
-# DML_for_Remote_Sensing
+# Deep Metric learning for Remote Sensing
