@@ -1,4 +1,4 @@
-# Deep Metric learning for Remote Sensing
+# Deep Metric learning for Remote Sensing - - publicação icip
 
 By [Luiz H. Buris](http://), [Fabio A Faria](http://)
 
